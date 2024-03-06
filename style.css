@@ -1,0 +1,26 @@
+ body{
+    /* border: 4px solid green; */
+     margin: 10px 20px;
+ }
+ 
+ .abc img{
+    height: 120px;
+    width: 80px;
+    margin: 15px 40px;
+}
+.container h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container ul li:hover,
+.container ul li:active{
+      text-decoration: underline;
+      color:grey
+}
+.container h1:hover{
+    text-decoration: line-through;
+    color: blue;
+}
+.xyz h2{
+    /* color: blueviolet; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
